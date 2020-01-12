@@ -1,4 +1,4 @@
-## React App pre config with CommitLint + Husky + CZ CLI
+## Pre config with CommitLint + Husky + CZ CLI
 
 <a href="https://github.com/typicode/husky">
   <img src="https://img.shields.io/badge/github-huksy-blue?style=flat-square&logo=appveyor">
